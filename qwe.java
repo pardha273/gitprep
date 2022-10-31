@@ -1,4 +1,2 @@
 hi
-there
-test
-
+hi from GUI
